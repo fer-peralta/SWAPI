@@ -1,0 +1,48 @@
+[
+    {
+        
+        "name": "Qui-Gon Jinn", 
+        "height": "193", 
+        "mass": "89", 
+        "hair_color": "brown", 
+        "skin_color": "fair", 
+        "eye_color": "blue", 
+        "birth_year": "92BBY", 
+        "gender": "male", 
+        "homeworld": "https://swapi.dev/api/planets/28/", 
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ], 
+        "species": [], 
+        "vehicles": [
+            "https://swapi.dev/api/vehicles/38/"
+        ], 
+        "starships": [], 
+        "created": "2014-12-19T16:54:53.618000Z", 
+        "edited": "2014-12-20T21:17:50.375000Z", 
+        "url": "https://swapi.dev/api/people/32/"
+
+    },
+    {
+        "name": "unknown", 
+        "rotation_period": "0", 
+        "orbital_period": "0", 
+        "diameter": "0", 
+        "climate": "unknown", 
+        "gravity": "unknown", 
+        "terrain": "unknown", 
+        "surface_water": "unknown", 
+        "population": "unknown", 
+        "residents": [
+            "https://swapi.dev/api/people/20/", 
+            "https://swapi.dev/api/people/23/", 
+            "https://swapi.dev/api/people/29/", 
+            "https://swapi.dev/api/people/32/", 
+            "https://swapi.dev/api/people/75/"
+        ], 
+        "films": [], 
+        "created": "2014-12-15T12:25:59.569000Z", 
+        "edited": "2014-12-20T20:58:18.466000Z", 
+        "url": "https://swapi.dev/api/planets/28/"
+    }
+]
